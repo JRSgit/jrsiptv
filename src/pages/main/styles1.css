@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+	border: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.product{
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+.product h1{
+  width: 100%;
+  margin-bottom: 50px;
+  padding: 5px;
+  color: #ddd;
+}
+.product h3{
+  width: 100%;
+  margin-bottom: 50px;
+  padding: 5px;
+  color: #ddd;
+}
+.product article{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #ffffffe7;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #000;
+  font-size: 20px;
+}
+.product article p {
+  font-size: 20px;
+  color: #000;
+  margin-top: 5px;
+  line-height: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.product strong{
+  float: center;
+}
+.product a {
+  color: #ddd;
+  font-size: 20px;
+    line-height: 40px;
+    font-family: Arial;
+    padding: 0px 20px;
+    border-radius: 7px;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: normal;
+    text-shadow: rgb(41, 62, 117) 1px 1px;
+    margin: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(41, 62, 117);
+    border-image: initial;
+    background: url(https://secure.mlstatic.com/mptools/assets/MP-payButton-blue.png) rgb(40, 83, 111);
+    text-decoration: none;
+}
