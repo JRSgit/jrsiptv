@@ -16,8 +16,8 @@
   color: #ddd;
 }
 .product h4{
-  width: 100%;
-  padding: 5px;
+  padding: 0px 20px;
+  border-radius: 7px;
   color: #ddd;
   background: #009ee3;
 }
