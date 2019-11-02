@@ -15,6 +15,12 @@
   padding: 5px;
   color: #ddd;
 }
+.product h4{
+  width: 100%;
+  padding: 5px;
+  color: #ddd;
+  background: #009ee3;
+}
 .product article{
   display: flex;
   align-items: center;

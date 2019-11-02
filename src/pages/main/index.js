@@ -10,6 +10,7 @@ export default class Main extends Component {
       <h1>Ambiente para Pagamento da Lista IPTV</h1>
       <h3>Varias formas de pagamento!
               clique no botão e veja..</h3>
+      <h4>Pagamento via Mercado Pago</h4>
           <article >
             <strong>Lista SD</strong>
             <p>
