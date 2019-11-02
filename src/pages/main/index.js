@@ -6,15 +6,12 @@ import './styles.css';
 export default class Main extends Component {
   render() {
     return (
-		<body>
+				<div className='inicio'>
+          <h1>Bem vindo ao Painel de pagamento da sua IPTV</h1>
+          <h3>Há Varias formas de pagamento!clique no botão e veja..</h3>
       <div className='product'>
-				<div>
-      <h1>Ambiente para Pagamento da Lista IPTV</h1>
-				</div>
-      <h3>Varias formas de pagamento!
-              clique no botão e veja..</h3>
-          <article >
-            <strong>Lista SD</strong>
+          <article>
+            <h2>SD</h2>
             <p>
               Lista iptv contendo todos os canais, filmes e series com qualidade SD!
         
@@ -24,8 +21,8 @@ export default class Main extends Component {
               Pagar!
               </a>
           </article>
-          <article >
-            <strong>Lista SD e HD</strong>
+          <article>
+            <h2>SD e HD</h2>
             <p>Lista iptv contendo todos os canais,
               filmes e series com qualidade SD e HD!
             </p>
@@ -35,7 +32,7 @@ export default class Main extends Component {
               </a>
           </article>
           <article >
-            <strong>Lista SD, HD, e FULLHD</strong>
+            <h2>HD, FULLHD</h2>
             <p>Lista iptv contendo todos os canais,
                filmes e series com qualidade SD, HD e FullHd!
             </p>
@@ -45,7 +42,7 @@ export default class Main extends Component {
             </a>
           </article>
           <article >
-            <strong>Lista SD, HD, FULLHD e Adultos</strong>
+            <h2>FULLHD e Adultos</h2>
             <p>Lista iptv contendo todos os canais,
                filmes e series com qualidade SD, HD e FullHd!
             </p>
@@ -55,7 +52,7 @@ export default class Main extends Component {
             </a>
           </article>
         </div>
-			</body>
+      </div>
       );
   }
 }
