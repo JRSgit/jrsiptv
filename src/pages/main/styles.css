@@ -15,12 +15,6 @@
   padding: 5px;
   color: #ddd;
 }
-.product h4{
-  padding: 0px 20px;
-  border-radius: 7px;
-  color: #ddd;
-  background: #009ee3;
-}
 .product article{
   display: flex;
   align-items: center;
