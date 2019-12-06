@@ -15,13 +15,33 @@
   padding: 10px;
   box-sizing: border-box;  
 }
+.contato{
+  display: flex;
+  flex-direction: column;
+}
+.contato label{
+  color: #fff;
+  margin-left: 80px;
+  font-size: 20px;
+}
+.contato strong{
+  color: #ddd;
+  margin-top: 0;
+  margin-left: 10px;
+
+}
+.contato img{
+  width: 50px;
+  height: 50px;
+  
+}
 .inicio h1{
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 25px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   padding: 5px;
   color: #ddd;
 }

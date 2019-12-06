@@ -1,14 +1,22 @@
 import React, { Component } from 'react';
 
 import './styles.css';
+import zap from './zap.png'
 
 
 export default class Main extends Component {
   render() {
     return (
+      <div>
+        
 				<div className='inicio'>
           <h1>Bem vindo ao Painel de pagamento da sua IPTV</h1>
           <h3>Há Varias formas de pagamento!clique no botão e veja..</h3>
+          <div className="contato">
+            <label htmlFor="">Contato</label>
+            <strong><img src={zap} alt=""/>(73) 98206-4879</strong>
+          </div>
+        </div>
       <div className='product'>
           <article>
             <h2>SD</h2>
@@ -52,7 +60,7 @@ export default class Main extends Component {
             </a>
           </article>
         </div>
-      </div>
+        </div>
       );
   }
 }
