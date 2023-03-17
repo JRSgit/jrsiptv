@@ -39,30 +39,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Project created by JRScode in 2019, at that time JRScode was called JRSprog, this year, after reviewing the code, some improvements were made, such as the implementation of a card component, since this component was repeated a lot in the code, so a separate component was created where it receives the parameters and renders several cards on the screen being made of the same component only with different parameters.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## About JRScode
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+JRScode is being created for the dev to show their knowledge in React, Node, React Native, MongoDB, Express, Prisma, Typesscript technologies among others, but with a lot of focus on the React, Node, React Native stack. A channel will be created on YouTube where the dev will share his projects and skills with the other devs that proliferate there sharing knowledge.
+This application was developed in 2019, at the time the dev did not upload its applications to git hub, this was one of the few that he uploaded to git.
+I hope you like the simple functionality applied to this project made in ReactJs
