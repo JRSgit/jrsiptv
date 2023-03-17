@@ -66,6 +66,7 @@
   box-sizing: border-box;
 	box-shadow: 0 20px 50px rgba(0,0,0,0.8);
   max-height: 350px;
+  min-height: 310px;
 }
 .product article p {
   font-size: 20px;
